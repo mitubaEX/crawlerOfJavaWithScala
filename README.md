@@ -1,0 +1,2 @@
+# crawlerOfJavaWithScala
+crawlerOfJavaをScalaで書いてみるリポジトリ
